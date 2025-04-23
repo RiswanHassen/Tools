@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# Backup/Temp
+*~
+*.bak
+*.swp
+
+# Output/Artifacts
+*.zip
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Bash History (falls mal exportiert)
+.bash_history
+
+# GPT Keys / Secrets (falls separat gespeichert)
+gpt_api_key.txt
